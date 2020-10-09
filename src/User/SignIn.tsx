@@ -2,10 +2,10 @@ import React from 'react';
 
 
 
-export default function App() {
+export default function SignIn() {
   return (
     <div>
-        kiri test
+      SignIn
     </div>
   );
 }
